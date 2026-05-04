@@ -21,7 +21,7 @@ MoonDataR is meant for beginner R users who may not yet remember every command n
 ## Installation
 
 ```r
-devtools::install_github("AnuliSegree/Friedman/Friedman")
+devtools::install_github("AnuliSegree/MoonDataR/MoonDataR")
 library(MoonDataR)
 ```
 
@@ -110,4 +110,4 @@ I used AI as a learning support tool to help organize ideas, debug code, and imp
 
 ## GitHub Link
 
-https://github.com/AnuliSegree/Friedman
+https://github.com/AnuliSegree/MoonDataR
